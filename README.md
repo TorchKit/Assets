@@ -3,12 +3,14 @@
     <p align="center">
         <img alt="Format" src="https://img.shields.io/badge/format-ZIP-orange">
         <img alt="Version" src="https://img.shields.io/badge/version-v1.0-blue">
-        <img alt="License" src="https://img.shields.io/badge/license-CUSTOM-green">
+        <img alt="License" src="https://img.shields.io/badge/license-YES-green">
     </p>
 </p>
 
 ------
 
-# TorchKit Branding Assets
+# Branding Assets
 
-This repository contains various assets used by TorchKit for its branding. You are free to use these assets subject to the included [license](LICENSE.MD).
+This repository contains various assets used by TorchKit for its product and marketing branding. Its primary purpose is internal, so you should not reference specific assets by URL. Instead, download them for your own use.
+
+You are free to use these assets subject to the included [license](LICENSE.MD).
