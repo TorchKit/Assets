@@ -13,4 +13,4 @@
 
 This repository contains various assets used by TorchKit for its product and marketing branding. Its primary purpose is internal, so you should not reference specific assets by URL. Instead, download them for your own use.
 
-You are free to use these assets subject to the included [license](LICENSE.MD).
+You are free to use these assets subject to the included [license](/LICENSE.md).
