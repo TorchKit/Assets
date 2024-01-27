@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/TorchKit/Branding/main/images/png/corporate-black.png" width="800" alt="TorchKit">
+    <img src="https://raw.githubusercontent.com/TorchKit/Assets/main/images/corporate/press-black.png" width="800" alt="TorchKit">
     <p align="center">
-        <img alt="Format" src="https://img.shields.io/badge/format-ZIP-orange">
+        <img alt="Format" src="https://img.shields.io/badge/format-PNG-orange">
         <img alt="Version" src="https://img.shields.io/badge/version-v1.0-blue">
         <img alt="License" src="https://img.shields.io/badge/license-YES-green">
     </p>
