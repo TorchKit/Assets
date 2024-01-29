@@ -7,10 +7,8 @@
     </p>
 </p>
 
-------
-
 # Asset Library
 
-This repository contains various assets used by TorchKit for its products and marketing. Its primary purpose is internal, so you should not reference specific assets by URL. Instead, download them for your own use.
+This repository contains various assets used by TorchKit for its products and marketing.
 
 You are free to use these assets subject to the included [license](/LICENSE.md).
